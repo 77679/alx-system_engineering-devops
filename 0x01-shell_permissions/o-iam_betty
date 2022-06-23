@@ -1,0 +1,8 @@
+#!/bin/bash
+su betty
+wc-l o-iam-betty
+chmod u+x o-iam-betty
+ls
+git add .
+git commit -m Â"My first task commit"
+git push
