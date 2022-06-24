@@ -1,4 +1,0 @@
-#!/bin/bash
-su betty
-wc-l o-iam_betty
-chmod u+x o-iam_betty
