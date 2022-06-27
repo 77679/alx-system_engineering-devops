@@ -1,1 +1,1 @@
-my readme message on shell redirection
+my readme message or shell redirection
